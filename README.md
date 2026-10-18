@@ -31,6 +31,6 @@ Microsoft Excel: Tables, VLOOKUP and XLOOKUP, PivotTables, PivotCharts and slice
 Author
 
 Oluwateniola Awosika
-Author
+
 
 Oluwateniola Awosika
